@@ -1,0 +1,2 @@
+# Weather-Prediction-with-Satellite-Images-Using-Deep-Learning-Python
+Designed and implemented a deep learning model using CNNs for weather prediction based on satellite imagery. Analyzed meteorological data to identify key weather patterns and trends. Enhanced model accuracy through hyperparameter tuning and data augmentation. Developed a scalable codebase to support future real-time satellite data integration.
